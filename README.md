@@ -1,3 +1,6 @@
+# Визуализатор алгоритма Дейкстры
+Веб-приложения на React, которое находит кратчайший путь от одной точки до другой с помощью алгоритма Дейкстры, с возможностью ставить препятствия и строить лабиринты
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
